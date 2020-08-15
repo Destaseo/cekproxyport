@@ -1,5 +1,5 @@
 # cekproxyport
-Scan proxy serta port otomatis tampil
+Scan cek proxy auto port
 
 
 # PERINTAH TERMUX
