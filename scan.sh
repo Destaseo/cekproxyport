@@ -11,7 +11,7 @@ function banner(){
 		echo -e "\t${h}      TOOL SCAN PORT  PROXY AKTIF"
 		echo -e "\t${b}      ✭✭✭✭✭✭✭✭✭✭✭✭✭✭✭✭✭✭✭✭✭✭✭✭✭✭✭\n"
 		echo -e "\t${b}  Author${m}   : ${b}Dᴇꜱᴛᴀ Sᴇᴏ "
-		echo -e "\t${b}  Instagram${m}: ${b}@desta.seo"
+		
 		echo -e "\t${b}  Telegram${m} : ${b}http://t.me/destaseo "
 		echo -e "\t${b}  Facebook${m} : ${b}http://fb.com/destiawan.m.rifai \n\n"
 		echo -e "\t${p} Copyright${p} © ${p}2011 - 2020 Desta Seo Inc. "
